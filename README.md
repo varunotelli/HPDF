@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 comes up, go to your browser and go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
-### Testing
+## Testing
 * For author details go to http://127.0.0.1:5000/authors
 * For details about posts got to http://127.0.0.1:5000/posts
 * To view the number of posts the author has posted, go to http://127.0.0.1:5000/count
