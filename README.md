@@ -5,7 +5,7 @@ Used for Hasura Product Development Fellowship for Flask Development.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-* Install Python3.x from [here.](www.python.org)
+* Install Python3.x from [here.](https://www.python.org/)
 * Install Flask by typing the command `pip install flask` on your Command prompt/Terminal
 
 ### Installing
