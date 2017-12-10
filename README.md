@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 * Install Python3.x from [here.](www.python.org)
-* Install Flask by typing the command `pip install flask`
+* Install Flask by typing the command `pip install flask` on your Command prompt/Terminal
 
 ### Installing
 * Clone this repository.
