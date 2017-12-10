@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 * Clone this repository.
-* Navigate to the directory you have just closed using the command prompt for Windows or Terminal for Linux/Mac users.
+* Navigate to the directory you have just cloned using the command prompt for Windows or Terminal for Linux/Mac users.
 * Type `python temp.py` on your Command prompt/Terminal
 * When 
 > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
