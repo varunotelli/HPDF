@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table border="1">
+        <tr><th>Author</th><th>Count</th></tr>
+{%for author in auth%}
+        <tr><td>{{author.name}}</td><td>{{author.ct}}</td></tr>
+
+    {%endfor%}
+    </table>
+</body>
+</html>
